@@ -18,6 +18,7 @@ Features
 * Can host QML code
 * Uses only one table in the database
 * Lightweight and simple code
+* Platform independent
 * MIT license
 
 =====
